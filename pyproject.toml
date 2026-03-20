@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "lettuce>=0.2.23",
+    "pyjokes>=0.8.3",
     "rich>=14.3.3",
 ]
